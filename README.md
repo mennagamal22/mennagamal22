@@ -1,7 +1,7 @@
 # Hi there, I'm Menna Gamal 👋
 
 <div align="center">
-  <h3>Communication Engineer | UI/UX Designer | Tech Enthusiast</h3>
+  <h3>Communication Engineer | UI/UX Designer | Cloud Computing Learner</h3>
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=250&section=header&text=Welcome%20to%20My%20GitHub&fontSize=45&fontColor=ffffff" />
 </div>
@@ -14,22 +14,24 @@ Hi! I'm **Menna Gamal**, a Communication Engineering student passionate about te
 
 🎓 Communication Engineering Student
 
-🎨 Certified **UI/UX Designer** (ITI - 120 Hours)
+🎨 Certified **UI/UX Designer** (Information Technology Institute - ITI)
+
+☁️ Currently learning **Cloud Computing** through the **Digital Egypt Pioneers Initiative (DEPI)**
 
 💡 Interested in:
+- Cloud Computing
 - UI/UX Design
 - Front-End Development
 - Artificial Intelligence
-- Embedded Systems
 - Communication Networks
 
 🌱 Currently learning:
+- Cloud Computing (DEPI)
 - React
 - Advanced UI/UX
-- AI Applications
 - Modern Web Technologies
 
-🚀 I enjoy building user-centered digital experiences and solving engineering problems.
+🚀 I enjoy building user-centered digital experiences, exploring cloud technologies, and solving engineering challenges.
 
 ---
 
@@ -66,7 +68,7 @@ A sustainability-focused mobile application that helps users donate, exchange, a
 - Personas
 - User Flow
 - Wireframing
-- High-Fidelity UI
+- High-Fidelity UI Design
 - Interactive Prototype
 
 **Tools**
@@ -110,9 +112,10 @@ A sustainability-focused mobile application that helps users donate, exchange, a
 
 ## 🎯 Current Goals
 
+- ☁️ Master Cloud Computing through DEPI
 - 🌱 Improve Front-End Development skills
-- 🤖 Learn AI & Machine Learning
-- 💼 Build professional portfolio projects
+- 🎨 Build professional UI/UX case studies
+- 💼 Develop impactful engineering projects
 - 🚀 Contribute to Open Source
 - 🎓 Graduate as a Communication Engineer
 
